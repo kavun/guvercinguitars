@@ -2,4 +2,4 @@
 
 Made for Guitar Luthier Ender Guvercin in 2010.
 
-## Check it out ☛ [kavun.github.io/guvercinguitars](kavun.github.io/guvercinguitars)
+## Check it out ☛ [kavun.github.io/guvercinguitars](http://kavun.github.io/guvercinguitars)
